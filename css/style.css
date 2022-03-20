@@ -6,7 +6,7 @@
 
 body {
     min-height: 100vh;
-    background-color: #111;
+    background: linear-gradient(150deg, rgb(202, 69, 243), rgba(213, 226, 35, 0.726),rgb(240, 21, 65));
     overflow: hidden;
 }
 
